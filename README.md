@@ -1,10 +1,17 @@
 <p align="center">
   <a href="https://postimg.cc/68yGsC0L">
-    <img src="https://i.postimg.cc/GmjPyQTN/20241023-131029.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #F75C7E;" alt="Profile Picture" />
+    <img src="https://i.postimg.cc/GmjPyQTN/20241023-131029.jpg" width="200" height="200" style="border-radius: 50%; border: 5px solid #F75C7E; animation: pulse 2s infinite alternate;" alt="Profile Picture" />
   </a>
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+%40elphas-simiyu;Full-Stack+Developer+%7C+Software+Engineer;Passionate+about+Technology+and+Innovation" />
 </p>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  100% { transform: scale(1.1); }
+}
+</style>
 
 ---
 
