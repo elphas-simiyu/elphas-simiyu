@@ -1,7 +1,7 @@
 <p align="center">
   <img src="your-profile-picture-url" width="150" height="150" style="border-radius: 50%; border: 3px solid #F75C7E;" alt="Profile Picture" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+%40your-username;Full-Stack+Developer+%7C+Software+Engineer;Passionate+about+Technology+and+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+%40elphas-simiyu;Full-Stack+Developer+%7C+Software+Engineer;Passionate+about+Technology+and+Innovation" />
 </p>
 
 ---
@@ -44,18 +44,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elphas-simiyu&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elphas-simiyu&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elphas-simiyu&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 💼 Featured Projects
 
-🔹 [Project 1](https://github.com/your-username/project1) - 🚀 A cutting-edge **AI-driven** application for real-time data processing.  
-🔹 [Project 2](https://github.com/your-username/project2) - 🌐 A **high-performance web application** built with **MERN stack**.  
-🔹 [Project 3](https://github.com/your-username/project3) - 🔍 A **data visualization tool** leveraging Python & MySQL.  
+🔹 [Project 1](https://github.com/elphas-simiyu/project1) - 🚀 A cutting-edge **AI-driven** application for real-time data processing.  
+🔹 [Project 2](https://github.com/elphas-simiyu/project2) - 🌐 A **high-performance web application** built with **MERN stack**.  
+🔹 [Project 3](https://github.com/elphas-simiyu/project3) - 🔍 A **data visualization tool** leveraging Python & MySQL.  
 
 ---
 
