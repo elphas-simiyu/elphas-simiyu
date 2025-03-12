@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+%40elphas-simiyu;Full-Stack+Developer+%7C+Software+Engineer;Passionate+about+Technology+and+Innovation" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/elphas-simiyu/elphas-simiyu/main/profile-animation.svg" width="200" height="200" />
-</p>
+
 
 ---
 
