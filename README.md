@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="your-profile-picture-url" width="150" height="150" style="border-radius: 50%; border: 3px solid #F75C7E;" alt="Profile Picture" />
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+%40your-username;Full-Stack+Developer+%7C+Software+Engineer;Passionate+about+Technology+and+Innovation" />
 </p>
 
@@ -6,10 +8,12 @@
 
 ## 👋 About Me
 
-- 💻 Full-stack Developer | 🚀 Passionate about innovation | 🔥 Tech Enthusiast  
+- 💻 **Full-stack Developer** | 🚀 Passionate about **innovation & AI** | 🔥 Tech Enthusiast  
 - 🎯 Specializing in **MERN, MAN stack, Python, MySQL, C, C++**  
-- 🌱 Always learning and exploring **new technologies**  
-- 🛠️ Solving real-world problems with **code**  
+- 🛠️ Solving real-world problems through **coding & automation**  
+- 🔍 Exploring **Quantum Computing & AI**  
+- 🎨 Love creating **responsive & scalable web applications**  
+- 🏆 **Aspiring to build impactful tech solutions**  
 
 ---
 
@@ -21,7 +25,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🏗️ Web Development
+### 🏗️ Web Development & Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -33,6 +37,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -48,20 +53,25 @@
 
 ## 💼 Featured Projects
 
-🔹 [Project 1](https://github.com/your-username/project1) - Short description.  
-🔹 [Project 2](https://github.com/your-username/project2) - Short description.  
-🔹 [Project 3](https://github.com/your-username/project3) - Short description.  
+🔹 [Project 1](https://github.com/your-username/project1) - 🚀 A cutting-edge **AI-driven** application for real-time data processing.  
+🔹 [Project 2](https://github.com/your-username/project2) - 🌐 A **high-performance web application** built with **MERN stack**.  
+🔹 [Project 3](https://github.com/your-username/project3) - 🔍 A **data visualization tool** leveraging Python & MySQL.  
 
 ---
 
-## 📫 Connect with Me
+## 🌍 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+---
+
+**⭐ Star some of my repositories if you find them useful!** 🚀
